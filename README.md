@@ -61,6 +61,9 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sazwa-asif&theme=radical&hide_border=true" alt="sazwa-asif's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="sazwa-asif's GitHub Stats" align="right"/>
+
 
 
 
