@@ -1,9 +1,4 @@
-
-###
-
 <h1 align="left">Hi There!👋</h1>
-
-###
 
 <br clear="both">
 
@@ -21,23 +16,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" alt="Animated GIF">
 </div>
 
-###
-
 <h3 align="left">🌐 Socials</h3>
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:syedaazwa@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="https://www.linkedin.com/in/syeda-azwa-asif?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2XC6NZynSoK5URNtirIRsg%3D%3D">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/">
+  <a href="https://leetcode.com/u/Syeda_Azwa_Asif/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F8C300&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
 </div>
-
-###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -57,12 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
 <h3 align="left">🔥 My Stats :</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sazwa-asif&theme=radical&hide_border=true" alt="sazwa-asif's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="sazwa-asif's GitHub Stats" align="right"/>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazwa-asif&theme=radical&hide_border=true" alt="sazwa-asif's GitHub Stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="sazwa-asif's GitHub Stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sazwa-asif&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="sazwa-asif's GitHub Stats" width="300"/>
+</div>
+
 
 
 
