@@ -28,6 +28,9 @@
   <a href="https://leetcode.com/u/Syeda_Azwa_Asif/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F8C300&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
+  <a href="https://orcid.org/0009-0008-7103-3279">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="35" alt="ORCID logo" />
+  </a>
 </div>
 
 <h3 align="left">🛠 Languages and Tools</h3>
