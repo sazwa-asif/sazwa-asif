@@ -1,10 +1,3 @@
-Sure! Here’s the updated version of your profile with the logos in the style you’ve requested:
-
----
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 ###
 
@@ -16,15 +9,21 @@ Sure! Here’s the updated version of your profile with the logos in the style y
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
+<p align="left">
+  I'm Azwa, an undergraduate software engineering student at NED University of Engineering and Technology<br><br>
+  - 📚 I have expertise in Python, C, C++, C#, and front-end web development<br>
+  - 🛠 I have various completed projects in Python and C#<br>
+  - 💡 I’m interested in AI & machine learning, research writing, and web development<br>
+  - 🎯 I aspire to work in AI development, particularly in areas where technology can positively impact society.
+</p>
 
-<p align="left">I'm Azwa, an undergraduate software engineering student at NED University of Engineering and Technology<br><br>- 📚 I have expertise in Python, C, C++, C#, and front-end web development<br>- 🛠 I have various completed projects in Python and C#<br>- 💡 I’m interested in AI & machine learning, research writing, and web development<br>- 🎯 I aspire to work in AI development, particularly in areas where technology can positively impact society.</p>
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" alt="Animated GIF">
+</div>
 
 ###
 
 <h3 align="left">🌐 Socials</h3>
-
-###
 
 <div align="left">
   <a href="mailto:your-email@gmail.com">
@@ -41,8 +40,6 @@ Sure! Here’s the updated version of your profile with the logos in the style y
 ###
 
 <h3 align="left">🛠 Languages and Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -64,6 +61,6 @@ Sure! Here’s the updated version of your profile with the logos in the style y
 
 <h3 align="left">🔥 My Stats :</h3>
 
----
 
-Feel free to adjust the links and add any additional details if needed!
+
+
