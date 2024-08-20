@@ -55,8 +55,9 @@
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazwa-asif&theme=radical&hide_border=true" alt="sazwa-asif's GitHub Stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="sazwa-asif's GitHub Stats" width="300"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=default&show_icons=true&hide_border=true&layout=compact" alt="sazwa-asif's GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=sazwa-asif&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="sazwa-asif's GitHub Stats" width="300"/>
 </div>
 
 
