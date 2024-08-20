@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I'm Azwa, an undergraduate software engineering student at NED University of Engineering and Technology<br><br>
+  I'm Azwa, an undergraduate software engineering student at NED University of Engineering and Technology, Pakistan<br><br>
   - 📚 I have expertise in Python, C, C++, C#, and front-end web development<br>
   - 🛠 I have various completed projects in Python and C#<br>
   - 💡 I’m interested in AI & machine learning, research writing, and web development<br>
