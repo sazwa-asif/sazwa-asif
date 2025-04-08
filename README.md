@@ -55,17 +55,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
 </div>
 
-
 <h3 align="left">🔥 My Stats :</h3>
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sazwa-asif&theme=default&show_icons=true&hide_border=true&count_private=true" alt="sazwa-asif's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=default&show_icons=true&hide_border=true&layout=compact" alt="sazwa-asif's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sazwa-asif&theme=default&hide_border=true" alt="sazwa-asif's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sazwa-asif&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 30%; margin-right: 1rem;"/>
+  
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazwa-asif&theme=default&hide_border=true" alt="GitHub Streak" style="width: 30%; margin-right: 1rem;" />
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=default&hide_border=true&count_private=true&layout=compact" alt="Top Languages" style="width: 30%;" />
+
 </div>
-
-
-
-
-
