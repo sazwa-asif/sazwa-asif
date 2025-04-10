@@ -6,8 +6,8 @@
 
 <p align="left">
   I'm Azwa, from Pakistan<br><br>
-  - 📚 I have expertise in Python, C, C++, C#, and front-end web development<br>
-  - 🛠 I have various completed projects in Python and C#<br>
+  - 📚 I have expertise in Python, C, C++, C#, UI/UX and front-end web development<br>
+  - 🛠 I have completed projects in Python and C# and a full stack web application<br>
   - 💡 I’m interested in AI & machine learning, research writing, and web development<br>
   - 🎯 I aspire to work in AI development, particularly in areas where technology can positively impact society.
 </p>
@@ -67,5 +67,6 @@
   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazwa-asif&theme=default&hide_border=true&count_private=true&layout=compact" alt="Top Languages" style="width: 30%;" />
+
 
 </div>
