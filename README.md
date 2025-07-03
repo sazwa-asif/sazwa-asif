@@ -6,10 +6,10 @@
 
 <p align="left">
   I'm Azwa, from Pakistan<br><br>
-  - 📚 I have expertise in Python, C, C++, C#, UI/UX and front-end web development<br>
-  - 🛠 I have completed projects in Python and C# and a full stack web application<br>
-  - 💡 I’m interested in AI & machine learning, research writing, and web development<br>
-  - 🎯 I aspire to work in AI development, particularly in areas where technology can positively impact society.
+  - 📚 I have expertise in various programming languages, UI/UX, front-end web development and mainly software qaulity assurance (SQA). <br>
+  - 🛠 I have completed projects in Python and C# and full stack web applications<br>
+  - 💡 I’m interested in AI & machine learning, research writing, and QA<br>
+  - 🎯 I aspire to work in AI development and Qaulity Assurance, particularly in areas where technology can positively impact society.
 </p>
 
 <div align="right">
