@@ -6,9 +6,9 @@
 
 <p align="left">
   I'm Azwa, from Pakistan<br><br>
-  - 📚 I have expertise in various programming languages, UI/UX, front-end web development and mainly software qaulity assurance (SQA). <br>
-  - 🛠 I have completed projects in Python and C# and full stack web applications<br>
-  - 💡 I’m interested in AI & machine learning, research writing, and QA<br>
+  - 📚 I have expertise in mainly software quality assurance (SQA), various programming languages, Web and Mobile App development. <br>
+  - 🛠 I have completed various projects in different stacks<br>
+  - 💡 I’m interested in Quality Assurance, AI & machine learning, and research writing.<br>
   - 🎯 I aspire to work in AI development and Qaulity Assurance, particularly in areas where technology can positively impact society.
 </p>
 
