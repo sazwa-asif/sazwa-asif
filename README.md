@@ -5,9 +5,9 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I'm Azwa, <br><br>
+  I'm Azwa <br><br>
   - 📚 I have expertise in mainly software quality assurance (SQA), various programming languages, Web and Mobile App development. <br>
-  - 🛠 I have completed various projects in different stacks<br>
+  - 🛠 I have completed various projects<br>
   - 💡 I’m interested in Quality Assurance, AI & machine learning, and research writing.<br>
   - 🎯 I aspire to work in Quality Assurance and app development particularly in areas where technology can positively impact society.
 </p>
